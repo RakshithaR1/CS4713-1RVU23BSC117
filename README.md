@@ -9,3 +9,6 @@ Lab 2: Develop a hard surface model (e.g., table, chair, or mechanical object) u
 Tutorial 2: Implement mesh editing operations such as extrude, inset, bevel, and loop cut.   
 
  Lab 3: Create the following Models attached (House)
+
+ Lab 4:Apply textures and materials to enhance the visual appearance of objects.    
+
